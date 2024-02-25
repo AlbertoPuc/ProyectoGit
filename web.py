@@ -1,1 +1,1 @@
-print"Inicio de web"
+print("inicio web")
